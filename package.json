@@ -1,7 +1,7 @@
 {
   "name": "secure-canvas-desktop",
   "productName": "Secure Canvas",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Secure Canvas — the desktop app for secureai.one/canvas",
   "author": {
     "name": "Secure AI",
@@ -69,7 +69,8 @@
       {
         "provider": "github",
         "owner": "secureaione-jpg",
-        "repo": "secure-canvas-desktop"
+        "repo": "secure-canvas-desktop",
+        "releaseType": "release"
       }
     ]
   },
