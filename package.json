@@ -3,7 +3,7 @@
   "productName": "Secure Canvas",
   "version": "0.1.0",
   "description": "Secure Canvas — the desktop app for secureai.one/canvas",
-  "author": "Secure AI",
+  "author": { "name": "Secure AI", "email": "secureai.one@gmail.com" },
   "private": true,
   "main": "main.js",
   "scripts": {
